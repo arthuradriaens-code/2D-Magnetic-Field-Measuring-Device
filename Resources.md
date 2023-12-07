@@ -10,6 +10,8 @@ the large size also makes it so special leading screws will have to be used.
 Websites: 
 https://uk.misumi-ec.com
 mcmaster.com
+maedler.de
+https://benl.rs-online.com/
 
 ## Moving Pieces:
 ### LeadScrew :
