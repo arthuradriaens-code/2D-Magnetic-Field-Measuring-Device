@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 12/07/2023 on PARTcommunity/PARTserver/3Dfindit.com:
+EN   Your download at 12/13/2023 on PARTcommunity/PARTserver/3Dfindit.com:
 
        Dear user,
        
@@ -7,7 +7,7 @@ EN   Your download at 12/07/2023 on PARTcommunity/PARTserver/3Dfindit.com:
 
        
 
-       STEP, MTSBHR18, MTSBHR18.stp
+       STEP, SXRL-MX28-1900, SXRL-MX28-1900.stp
 	
        Information for use:
 

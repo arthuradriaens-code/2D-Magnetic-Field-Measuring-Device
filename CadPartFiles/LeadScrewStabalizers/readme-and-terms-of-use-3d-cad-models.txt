@@ -7,7 +7,7 @@ EN   Your download at 12/13/2023 on PARTcommunity/PARTserver/3Dfindit.com:
 
        
 
-       STEP, MTSRL20-2000, MTSRL20-2000.stp
+       STEP, BSW20-SET, BSW20-SET.stp
 	
        Information for use:
 

@@ -17,27 +17,33 @@ https://benl.rs-online.com/
 ### LeadScrew :
 Oftewel de schroef die kan rondgedraaid worden om iets linear te doen bewegen, let op dit is **geen** "threaded screw".
 
-Mogelijke lead screw: MTSRL18-2000
+Mogelijke lead screw: MTSRL20-2000
 
 Prijs = 86.09 euro x 2 = 172.18 euro
 
 ### lead screw nut:
 De "bout" die wordt bevestigd aan een platform dat dient te bewegen (de bout draait dus niet rond terwijl de schroef dat wel doet)
 
-Mogelijke lead screw nut: MTSBHR18 
+Mogelijke lead screw nut: MTSBHR20 
 
 Prijs = 63.94 euro x 2 = 127.88 euro
 
 ### Rails:
 
+SXRL-MX28-1900
+Prijs = 288.25x4 = 1153 euro
+
 ### Lead screw support unit:
+
+C-BRW20-SET: C-BRW20 + C-BUR20
+prijs = 82.75x2 
 
 ## Frame:
 
 ### Aluminium extrusions:
 
-Mogelijke part: HFSP5-4040-2000
-Prijs = 4x146.60 = 586.40
+Mogelijke part: HFSP5-4040-1900
+Prijs = 4x139.27 = 557.08
 
 ## Electronics:
 
