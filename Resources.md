@@ -12,6 +12,8 @@ https://uk.misumi-ec.com
 mcmaster.com
 maedler.de
 https://benl.rs-online.com/
+https://www.omc-stepperonline.com/
+https://www.pbclinear.com/
 
 ## Moving Pieces:
 ### LeadScrew :
@@ -38,6 +40,8 @@ Prijs = 288.25x4 = 1153 euro
 C-BRW20-SET: C-BRW20 + C-BUR20
 prijs = 82.75x2 
 
+Of BSW20 set
+
 ## Frame:
 
 ### Aluminium extrusions:
@@ -57,6 +61,10 @@ Mean Well RS-15-24 power supply - 24V 15W; Prijs=€ 11,80x2 = 23,60euro
 
 Nema 23 Bipolar 3Nm(425oz.in) 4.2A 57x57x114mm 4 Wires Stepper Motor CNC
 Prijs = 28.82euro x 2 = 57.64 euro 
+Support voor motor: Nema 23 Bracket for Stepper Motor and Geared Stepper Motor Alloy Steel Bracket
+
+Of Sanyo Denki 103H5 Series Hybrid, Single Shaft Stepper Motor, 0.51Nm Torque, 24 V, 1.8°, 42 x 42mm Frame, 5mm Shaft (metric)
+
 
 ### Limit switches:
 
