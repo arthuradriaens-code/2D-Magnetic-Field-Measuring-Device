@@ -1,27 +1,31 @@
 # First, Properties:
 
-The platform needs to be able to cover a 2mx2m square with accurate positional precision and should
-be able to handle a reasonable load (as we want to be open to modifications to the measurement device).
+The platform needs to be able to cover a 2mx2m square with accurate positional precision and 
+hold a ring to measure a magnetic field at a certain distance, thus it has to be very stable.
+Ideally we'd like it to be able to handle a reasonable load (as we want to be open to modifications to the measurement device)
+but this isn't necessary.
 
-Due to the large size, the system will definitely have to be built out of metal-like components,
-the large size also makes it so special leading screws will have to be used. 
+Due to the large size, the system will definitely have to be built out of metal-like components, 
+for ease of use aluminium extrusions are the suggested frame building blocks.
 
 # All the components:
 Websites: 
 https://uk.misumi-ec.com
-mcmaster.com
+https://www.pbclinear.com/
 maedler.de
 https://benl.rs-online.com/
 https://www.omc-stepperonline.com/
-https://www.pbclinear.com/
+mcmaster.com
 
 ## Moving Pieces:
 ### LeadScrew :
-Oftewel de schroef die kan rondgedraaid worden om iets linear te doen bewegen, let op dit is **geen** "threaded screw".
+The screw which transforms rotary motion (from a stepper motor) to linear motion (up and down/ left and right).
 
-Mogelijke lead screw: MTSRL20-2000
+Mogelijke lead screw: MTSRL16-2000 
 
-Prijs = 86.09 euro x 2 = 172.18 euro
+This is a 16mm diameter 2m long lead screw, after testing the strength of lead screws of 10mm in diameter, this is definitely thick enough. 
+
+Prijs = 82.16 euro x 2 = 164.32euro
 
 ### lead screw nut:
 De "bout" die wordt bevestigd aan een platform dat dient te bewegen (de bout draait dus niet rond terwijl de schroef dat wel doet)
