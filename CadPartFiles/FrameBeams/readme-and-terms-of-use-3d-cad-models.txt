@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 01/04/2024 on PARTcommunity/PARTserver/3Dfindit.com:
+EN   Your download at 01/09/2024 on PARTcommunity/PARTserver/3Dfindit.com:
 
        Dear user,
        
@@ -7,7 +7,7 @@ EN   Your download at 01/04/2024 on PARTcommunity/PARTserver/3Dfindit.com:
 
        
 
-       STEP, HFS8-4040-2800, HFS8-4040-2800.stp
+       STEP, HFS8-4040-2460, HFS8-4040-2460.stp
 	
        Information for use:
 
