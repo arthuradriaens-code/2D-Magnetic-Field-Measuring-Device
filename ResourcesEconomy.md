@@ -6,11 +6,13 @@ Arduino: 75
 12 or more limit switches: 12
 6 Stepper drivers: 78 (https://www.omc-stepperonline.com/digital-stepper-driver-0-3-2-2a-10-30vdc-for-nema-8-11-14-16-17-stepper-motor-dm320t)
 6 Power supplies: 102 (https://opencircuit.be/product/mean-well-lrs-50-12-power-supply-12v-50w)
+
 ## frame
 4 400mm extrusions: 35 (HFS8-4040-400)
 2 2800mm extrusions: 120 (HFS8-4040-2800)
 4 2460mm extrusions: 104 (HFS8-4040-2460)
 4 150mm extrusions: 104 (HFS8-4040-150)
+
 ## movement
 2 2000mm ball bearings: 232 (C-BSSTAK2005-2000-F30-P12)
 4 400mm ball bearings: 460 (C-BSSTAK2005-400-F30-P12)
